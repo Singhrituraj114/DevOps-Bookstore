@@ -166,8 +166,8 @@ VITE_FIREBASE_PROJECT_ID=your-firebase-project-id
 
 ## 📬 Contact  
 
-- **Email**: 2004ghanatherohit@gmail.com  
-- **GitHub**: [ghanatherohit](https://github.com/your-username)  
+- **Email**:singhrituraj114@gmail.com  
+- **GitHub**: [Singhrituraj114](https://github.com/Singhrituraj114)  
 - **Live Demo**: [Bookstore App](https://book-store-app-frontend-phi.vercel.app/)  
 
 ---
